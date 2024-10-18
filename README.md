@@ -5,4 +5,9 @@ its an application dedicated to manage students using python tk inter and my sql
 
 1. clone the repo :
    ```bash
-   clone 
+   clone https://github.com/JawadData/GestionEtudiantsPython.git
+3. run the file:
+   
+   ```bash
+   python projetpython.py
+   
