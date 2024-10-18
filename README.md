@@ -1,11 +1,17 @@
-# Gestion Etudiants Python
-its an application dedicated to manage students using python tk inter and my sql as database
+# Gestion Étudiants Python
 
-## projet setup
+Welcome to the **Gestion Étudiants Python** project! This application is designed to manage student records efficiently, utilizing Python's Tkinter for the user interface and MySQL as the database backend.
 
-1. clone the repo :
+---
+
+## Project Setup
+
+To set up and run the project, follow these steps:
+
+1. Clone the repository:
    ```bash
-   clone https://github.com/JawadData/GestionEtudiantsPython.git
+   git clone https://github.com/JawadData/GestionEtudiantsPython.git
+
 3. run the file:
    
    ```bash
